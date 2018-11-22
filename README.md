@@ -1,5 +1,6 @@
 # lokaverk_kest
 
+## 22 Nóv 2018
 # Heimanet
 > Stilti heimanetinu upp. 
 > Tengdi borðtölvu og prentara við router með copper straight-through.
