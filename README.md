@@ -1,7 +1,7 @@
 # lokaverk_kest
 
-## 22 Nóv 2018
-# Heimanet
+# 22 Nóv 2018
+## Heimanet
 > Stilti heimanetinu upp. 
 > Tengdi borðtölvu og prentara við router með copper straight-through.
 > Setti upp gesta wifi þar sem Network name: Gestanet, Security mode: WPA2 Personal, Encryption: AES og Passphrase: gestur123.
@@ -10,7 +10,7 @@
 > Tengdi Lárus við gestanetið.
 > Notaði dhcp til að fá ip tölur á allt á Heimili.
 
-# Fyrirtæki
+## Fyrirtæki
 > Stilti fyrirtækjanetinu upp.
 > Tengdi switch0 við routerinn.
 > Tengdi pc1 - pc8 við switch0.
