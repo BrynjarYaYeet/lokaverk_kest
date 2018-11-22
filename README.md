@@ -1,7 +1,7 @@
 # lokaverk_kest
 
 # Heimanet
-> Stilti heimanetinu upp. 
+/ Stilti heimanetinu upp. 
 > Tengdi borðtölvu og prentara við router með copper straight-through.
 > Setti upp gesta wifi þar sem Network name: Gestanet, Security mode: WPA2 Personal, Encryption: AES og Passphrase: gestur123.
 > Setti upp venjulegt wifi þar sem Network name: Heimanet, Security mode: WPA2 Personal, Encryption: AES og Passphrase: Password.
