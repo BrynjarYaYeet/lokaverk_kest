@@ -27,7 +27,8 @@
 > Vlan ip address: 192.168.2.2 255.255.255.0
 > Copy-aði running config í startup config
 > Stillti ip address á routernum í 192.168.2.1 255.255.255.0
+> SSH Domain name: cisco.com, generate rsa, 1024 bita, username admin secret: fyrirtaeki
 
 ## Heimanet
->> Stillti ip address á roudernum í 192.168.1.1 255.255.255.0
->> Notaði dhcp til að fá ip tölur á allt á Heimili.
+> Stillti ip address á roudernum í 192.168.1.1 255.255.255.0
+> Notaði dhcp til að fá ip tölur á allt á Heimili.
