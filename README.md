@@ -17,3 +17,14 @@
 > Setti upp wifi þar sem Network name: FyrirtækiNet, Security mode: WPA2 Personal, Encryption: AES og Passphrase: Fyrirtaeki.
 > Tengdi Gunnar, Jolla, Siggu og Árna við FyrirtækiNet.
 > Setti upp gestanet fyrir fyrirtækið þar sem Network name: FyrirtækiGestur, Security mode: WPA2 Personal, Encryption: AES og Passphrase: FyrirtaekiG.
+
+# 27 Nóv 2018
+## Fyrirtæki
+> Tengdi PC1 við switchin með blárri snúru
+> Breytti hostname í S_Fyrirtaeki
+> Stillti lykilorð með line(con og vty) og enable secret Password:fyrirtaeki
+> Encryptaði öll lykilorð
+> Setti Banner motd í "Thad er bannad ad stela!!"
+> Vlan ip address: 192.168.2.2 255.255.255.0
+> Copy-aði running config í startup config
+> Stillti ip address á routernum í 192.168.2.1 255.255.255.0
