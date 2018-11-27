@@ -8,7 +8,6 @@
 > Setti upp venjulegt wifi þar sem Network name: Heimanet, Security mode: WPA2 Personal, Encryption: AES og Passphrase: Password.
 > Tengdi Svein, Íþróttaálfinn, Halla og Margréti við heimanet.
 > Tengdi Lárus við gestanetið.
-> Notaði dhcp til að fá ip tölur á allt á Heimili.
 
 ## Fyrirtæki
 > Stilti fyrirtækjanetinu upp.
@@ -28,3 +27,7 @@
 > Vlan ip address: 192.168.2.2 255.255.255.0
 > Copy-aði running config í startup config
 > Stillti ip address á routernum í 192.168.2.1 255.255.255.0
+
+## Heimanet
+>> Stillti ip address á roudernum í 192.168.1.1 255.255.255.0
+>> Notaði dhcp til að fá ip tölur á allt á Heimili.
