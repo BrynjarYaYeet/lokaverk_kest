@@ -34,9 +34,6 @@
 > Notaði dhcp til að fá ip tölur á allt á Heimili.
 
 # 29 Nóv 2018
-## Fyrirtæki
->
-
 ## ISP
 > Stilti öllu upp.
 > Breytti Hostname á R_ISP í R_ISP.
