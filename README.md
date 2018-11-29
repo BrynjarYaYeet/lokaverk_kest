@@ -49,4 +49,8 @@
 > Tengdi mig inná S_FIBER með blárri snúru.
 > Breytti hostname á S_FIBER í FIBER.
 > Stillti lykilorð á FIBER og encryptaði Lykilorð=FIBER123.
-> Stillti Ip address(192.168.25.2) á g0/0(Tengist í S_FIBER) hjá R_ISP.
+> Stillti Ip address(192.168.21.10) á g0/0(Tengist í S_FIBER) hjá R_ISP.
+> Stillti Ip address(192.168.20.5) á g0/1(Tengist í S_ADSL) hjá R_ISP.
+> Stillti Ip address(192.168.23.15) á g0/2(Tengist í RIX) hjá R_ISP.
+> Stillti Ip address(192.168.30.2) á fa0/0(Tengist í S_FIBER) hjá Ljósleiðarabox.
+> Stillti Ip address(163.85.100.251) á g1/0(Tengist í FyrirtækjaRouter) hjá Ljósleiðarabox.
