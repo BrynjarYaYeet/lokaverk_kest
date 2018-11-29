@@ -49,8 +49,14 @@
 > Tengdi mig inná S_FIBER með blárri snúru.
 > Breytti hostname á S_FIBER í FIBER.
 > Stillti lykilorð á FIBER og encryptaði Lykilorð=FIBER123.
+> Tengdi mig inná S_ADSL með blárri snúru.
+> Breytti hostname á S_ADSL í ADSL.
+> Stillti lykilorð á ADSL og encryptaði Lykilorð=ADSL123.
 > Stillti Ip address(192.168.21.10) á g0/0(Tengist í S_FIBER) hjá R_ISP.
 > Stillti Ip address(192.168.20.5) á g0/1(Tengist í S_ADSL) hjá R_ISP.
 > Stillti Ip address(192.168.23.15) á g0/2(Tengist í RIX) hjá R_ISP.
 > Stillti Ip address(192.168.30.2) á fa0/0(Tengist í S_FIBER) hjá Ljósleiðarabox.
 > Stillti Ip address(163.85.100.251) á g1/0(Tengist í FyrirtækjaRouter) hjá Ljósleiðarabox.
+> Setti upp 2 dns server www.ha.com og ha.com Ip address (á báðum): 150.25.10.5.
+> Setti upp DHCP server í gegnum ISP_DHCP(ADSL) þar sem Pool name: DHCP, Deafult gateway: 192.168.20.5, DNS: 150.25.10.5, Start ip: 192.168.20.10, Subnet mask: 255.255.255.0 og Max number of users: 150.
+> Breytti ip address á DHCP servernum í 192.168.20.7 255.255.255.0
