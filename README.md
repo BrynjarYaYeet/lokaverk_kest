@@ -64,5 +64,17 @@
 
 ## ISP
 > stilti ip address á DNS Ip:150.25.10.3, Deafault gateway: 150.25.10.1.
-> stilti ip address á www.tskoli.is Ip: 150.25.10.5, Deafault gateway: 10.25.10.1, DNS: 150.25.10.5.
+> stilti ip address á www.tskoli.is Ip: 150.25.10.5, Deafault gateway: 10.25.10.1, DNS: 150.25.10.5.(ha.com)
 
+# 6 Des 2018
+## Fyrirtæki
+> Setti up serverinn á porti 80 með ip address 192.168.2.12
+
+## ISP
+> setti upp ssh á S_FIBER, S_ADSL og RIX.
+> SSH(S_ADSL) Domain name: adsl.com, generate rsa, 1024 bita, username admin secret: Adsl.
+> Setti ip tölu á VLAN1: 192.168.20.30.
+> SSH(S_FIBER) Domain name: fiber.com, generate rsa, 1024 bita, username admin secret: Fiber.
+> Setti ip tölu á VLAN1: 192.168.21.30.
+> SSH(RIX) Domain name: rix.com, generate rsa, 1024 bita, username admin secret: Rix.
+> Setti ip tölu á VLAN1: 150.25.10.9.
